@@ -2,7 +2,7 @@
 
 # Organo
 
-Bem-vindo ao **Organo**, um projeto desenvolvido como parte do curso 1 da formação de React com JavaScript da [Alura](https://www.alura.com.br). O Organo é uma aplicação interativa que permite gerenciar times personalizados, adicionar membros e organizar informações de forma visual e intuitiva.
+Boas-vindas ao **Organo**, um projeto desenvolvido como parte do curso 1 da formação de React com JavaScript da [Alura](https://www.alura.com.br). O Organo é uma aplicação interativa que permite gerenciar times personalizados, adicionar membros e organizar informações de forma visual e intuitiva.
 
 ---
 
